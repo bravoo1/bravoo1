@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bravo
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Python for Cybersecurity and Data Analytics
 - 🌱 I’m currently learning python mobile and web application (dnango and kivy)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
